@@ -1,0 +1,6 @@
+Flask 
+Werkzeug
+configparser
+psutil
+jsonify
+
